@@ -1,0 +1,11 @@
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\bin\Debug\FormApp.exe.config
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\bin\Debug\FormApp.exe
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\bin\Debug\FormApp.pdb
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\obj\Debug\FormApp.csproj.AssemblyReference.cache
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\obj\Debug\FormApp.csproj.SuggestedBindingRedirects.cache
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\obj\Debug\FormApp.MyForm.resources
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\obj\Debug\FormApp.exe
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\FormApp\FormApp\obj\Debug\FormApp.pdb

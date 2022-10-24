@@ -1,0 +1,14 @@
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.exe
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.deps.json
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.runtimeconfig.json
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.runtimeconfig.dev.json
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.dll
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.pdb
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.csproj.AssemblyReference.cache
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfoInputs.cache
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfo.cs
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.csproj.CoreCompileInputs.cache
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.dll
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.pdb
+E:\code\C#\CSharp刘铁锰\021 事件详解（中）\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.genruntimeconfig.cache

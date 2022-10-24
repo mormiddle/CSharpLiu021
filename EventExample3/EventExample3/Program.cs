@@ -7,8 +7,17 @@ namespace EventExample3
     {
         static void Main(string[] args)
         {
-            Form form = new Form();
+            MyForm form = new MyForm();
+            form.Click += form.FormClicked;
+            form.ShowDialog();
+        }
+    }
 
+    class MyForm : Form
+    {
+        internal void FormClicked(object sender, EventArgs e)
+        {
+            this.Text = DateTime.Now.ToString();
         }
     }
 }

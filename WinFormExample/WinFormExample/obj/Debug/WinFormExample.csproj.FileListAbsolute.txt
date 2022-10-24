@@ -1,0 +1,11 @@
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\bin\Debug\WinFormExample.exe.config
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\bin\Debug\WinFormExample.exe
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\bin\Debug\WinFormExample.pdb
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\obj\Debug\WinFormExample.csproj.AssemblyReference.cache
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\obj\Debug\WinFormExample.csproj.SuggestedBindingRedirects.cache
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\obj\Debug\WinFormExample.Form1.resources
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\obj\Debug\WinFormExample.Properties.Resources.resources
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\obj\Debug\WinFormExample.csproj.GenerateResource.cache
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\obj\Debug\WinFormExample.csproj.CoreCompileInputs.cache
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\obj\Debug\WinFormExample.exe
+E:\code\c#\c#刘铁锰\021 事件详解（中）\CSharpLiu021\WinFormExample\WinFormExample\obj\Debug\WinFormExample.pdb
